@@ -1,4 +1,5 @@
 # Synergy Core
+AS PART OF THE FREE LICENSE I CAN CHANGE THIS, EDIT IT, even the activation.,
 
 This is the open source core component of Synergy, a keyboard and mouse sharing tool.
 
