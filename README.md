@@ -5,3 +5,5 @@
 
 http://cpp.sh/3mjw3#
 
+
+https://raw.githubusercontent.com/symless/synergy-core/master/LICENSE
