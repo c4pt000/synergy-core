@@ -3,7 +3,19 @@
 similar to DLL hijacking and packing for system32 injection,
 https://www.virusbulletin.com/virusbulletin/2015/03/dylib-hijacking-os-x
 
+# building
+
+```
+yum install libxkbfile-devel libnotify-devel cmake -y
+mkdir build
+cd build
+cmake ..
+make -j24
+make -j24 install
+```
+
 # compile activator
+
 ```
 g++ -o activator activator.cpp
 ```
